@@ -1,0 +1,7 @@
+{
+  "name": "spring-ionic-frontend",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
