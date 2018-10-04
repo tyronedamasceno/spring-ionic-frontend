@@ -1,6 +1,6 @@
 import { CartService } from './domain/cart.service';
 import { StorageService } from './storage.service';
-import { LocalUser } from './../models/local_user';
+import { LocalUser } from '../models/local-user';
 import { API_CONFIG } from './../config/api.config';
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
