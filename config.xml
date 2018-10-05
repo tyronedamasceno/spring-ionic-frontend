@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="io.ionic.starter" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>spring-ionic-frontend</name>
+<widget id="com.tyrone.springbootionic" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Sistema de pedidos</name>
     <description>An awesome Ionic/Cordova app.</description>
-    <author email="hi@ionicframework" href="http://ionicframework.com/">Ionic Framework Team</author>
+    <author email="tyronedamasceno@gmail.com" href="https://github.com/tyronedamasceno">Tyrone Damasceno</author>
     <content src="index.html" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
